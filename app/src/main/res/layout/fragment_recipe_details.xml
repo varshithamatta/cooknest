@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="20dp"
+    android:background="@color/white"
+    tools:context=".RecipeDetailsFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/recipe_detail_image"
+            android:layout_width="match_parent"
+            android:layout_height="252dp"
+            android:background="@drawable/recipeimg"
+            android:orientation="horizontal">
+
+            <!-- Back Button -->
+            <ImageView
+                android:id="@+id/backBtn"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/back_arrow" />
+
+            <!-- Heart Icon (Right Aligned) -->
+            <ImageView
+                android:id="@+id/likeBtn"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="320dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/heart"
+                android:clickable="true"
+                android:focusable="true"/>
+
+        </LinearLayout>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="191dp"
+            android:layout_height="42dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="-20dp"
+            android:background="@android:color/white"
+            android:padding="8dp"
+            android:translationZ="10dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="10dp">  <!-- Brings to Front -->
+
+            <TextView
+                android:id="@+id/recipe_detail_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="Chicken Dum Biryani" />
+
+        </androidx.cardview.widget.CardView>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:layout_gravity="center"
+                    android:background="@color/black"
+                    android:padding="8dp"
+                    android:translationZ="10dp"
+                    app:cardCornerRadius="12dp"
+                    app:cardElevation="10dp">
+
+                    <!-- Info Section -->
+                    <LinearLayout
+                        android:layout_width="357dp"
+                        android:layout_height="74dp"
+                        android:background="#d9d9d9"
+                        android:elevation="2dp"
+                        android:orientation="horizontal"
+                        android:padding="12dp">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="50dp"
+                            android:layout_weight="2"
+                            android:orientation="vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Time"
+                                android:textAlignment="center"
+                                android:textColor="#737373" />
+
+                            <TextView
+                                android:id="@+id/recipe_time"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="3dp"
+                                android:text="1 hr 10 mins"
+                                android:textAlignment="center"
+                                android:textColor="@android:color/black" />
+                        </LinearLayout>
+
+                        <View
+                            android:layout_width="1dp"
+                            android:layout_height="match_parent"
+                            android:background="#8b8989" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="50dp"
+                            android:layout_weight="2"
+                            android:orientation="vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Type"
+                                android:textAlignment="center"
+                                android:textColor="#737373" />
+
+                            <TextView
+                                android:id="@+id/recipe_type"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="3dp"
+                                android:text="Non - Veg"
+                                android:textAlignment="center"
+                                android:textColor="@android:color/black" />
+                        </LinearLayout>
+
+                        <View
+                            android:layout_width="1dp"
+                            android:layout_height="match_parent"
+                            android:background="#8b8989" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="50dp"
+                            android:layout_weight="2"
+                            android:orientation="vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Rating"
+                                android:textAlignment="center"
+                                android:textColor="#737373" />
+
+                            <TextView
+                                android:id="@+id/recipe_rating"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="3dp"
+                                android:text="4.5"
+                                android:textAlignment="center"
+                                android:textColor="@android:color/black" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="25dp"
+                    android:layout_marginTop="20dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Description"
+                        android:layout_marginBottom="10dp"
+                        android:textStyle="bold"
+                        android:textSize="20sp"/>
+
+                    <TextView
+                        android:id="@+id/recipe_desc"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:textSize="14sp"
+                        android:letterSpacing="0.05"
+                        android:text="Chicken Dum Biryani si a flavorful and aromatic rice dish made with marinated chicken, fragrant basmati rice, and a blend of rice Indian spices."
+                        android:textColor="#8b8989"/>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:layout_marginBottom="10dp"
+                        android:background="#d9d9d9"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Ingredients"
+                        android:textStyle="bold"
+                        android:layout_marginBottom="10dp"
+                        android:textSize="20sp"/>
+
+                    <TextView
+                        android:id="@+id/recipe_ind"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:textSize="14sp"
+                        android:letterSpacing="0.05"
+                        android:text="For Chicken Masala\n
+1/2 Kg Chicken\n
+1 tsp Black Cumin\n
+1 tbsp Ginger Garlic Paste\n
+1/3 cup Fried Onions\n
+Small Bunch Mint Leaves\n
+2 spoons Green Coriander\n
+2 spoons Ghee \n
+Juice of one Lemon \n
+1 tbsp Mirchi \n
+1 tsp Roasted Cumin Powder \n
+1 tsp Coriander Powder \n
+1/2 tsp Garam Masala \n
+1/4 tsp Turmeric Salt to taste \n
+250 ml Curd\n
+1 Biryani Leaf \n
+2 Cardamoms \n
+1 Inch Cinnamon Stick For Biryani \n
+2 liters Water \n
+5 Cardamoms \n
+1 Inch Cinnamon Stick \n
+6 Cloves \n
+1 tsp Black Cumin Seeds \n
+1 Biryani leaf \n
+1 Big Spoon Ginger Garlic Paste \n
+2 tbsps Salt \n
+1.5 cups Basmati Rice (225 gms) \n
+For Biryani Dum \n
+2 tsp chopped Coriander\n
+ 1/4 cup Ghee \n
+1/4 cup Fried Onions \n
+A pinch of Saffron (Soaked in a spoon of hot Water)"
+                        android:textColor="#8b8989"/>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:layout_marginBottom="10dp"
+                        android:background="#d9d9d9"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Instructions"
+                        android:textStyle="bold"
+                        android:layout_marginBottom="10dp"
+                        android:textSize="20sp"/>
+
+
+                    <TextView
+                        android:id="@+id/recipe_steps"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:textSize="14sp"
+                        android:letterSpacing="0.05"
+                        android:text="1.Marinate the Chicken : Mix chicken with yogurt, ginger-garlic paste, green chilies, spices (turmeric, red chili, garam masala), lemon juice, and fried onions. Let it marinate for at least 2 hours.\n\n2.Parboil the Rice : Cook basmati rice with whole spices (bay leaf, cloves, cardamom, cinnamon) until 70% done. Drain and set aside.\n\n3.Layer and Dum Cook : In a heavy-bottomed pot, layer marinated chicken, followed by rice. Add saffron milk, fried onions, and ghee. Seal the pot with a tight lid or dough and cook on low flame for 30-40 minutes.\n\n4.Serve and Enjoy : Gently mix the biryani, garnish with coriander and mint, and serve hot with raita or salan.\n"
+                        android:textColor="#8b8989"/>
+
+
+
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </ScrollView>
+
+
+
+    </LinearLayout>
+
+</FrameLayout>

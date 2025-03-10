@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768392802064",
+    "project_id": "cook-nest",
+    "storage_bucket": "cook-nest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768392802064:android:09a7a2d71e80d41d263f95",
+        "android_client_info": {
+          "package_name": "com.basic.cooknest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768392802064-a1a115bgf9c6ot7h861uhdbpvk713a9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basic.cooknest",
+            "certificate_hash": "307977d0873a35d82d99ca4fcd6be1fb886e0c86"
+          }
+        },
+        {
+          "client_id": "768392802064-f8pdl9f00td2unaujpb1157rf82ijab8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basic.cooknest",
+            "certificate_hash": "4954dcf6563505050a66ad8853f4d37dd096c5ed"
+          }
+        },
+        {
+          "client_id": "768392802064-lnurarspn3ltjd7fpgdihs6mlolhftfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD38vjWOtgRVT-6l9JEgsuWze3pLD5nKdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768392802064-lnurarspn3ltjd7fpgdihs6mlolhftfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
