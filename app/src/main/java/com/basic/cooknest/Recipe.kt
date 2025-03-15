@@ -4,15 +4,16 @@ import java.io.Serializable
 
 data class Recipe(
     val id: Int,
-    val recipe_name: String,
-    val image: String,
-    val cuisine_type: String,
+    var recipe_name: String,
+    var image: String,
+    var cuisine_type: String,
     val rating: Double,
     val time: String,
-    val type: String,
-    val description: String,
-    val ingredients: List<String>,
-    val instructions: List<String>,
-    var liked: Boolean
+    var type: String,
+    var description: String,
+    var ingredients: List<String>,
+    var instructions: List<String>,
+    var liked: Boolean,
+    val chefName: String
 ) : Serializable
 

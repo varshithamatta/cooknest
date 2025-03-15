@@ -10,23 +10,23 @@ import androidx.fragment.app.FragmentActivity
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 
-class OtherRecipesAdapter(private val otherList: List<Recipe>, private val activity: FragmentActivity) :
-    RecyclerView.Adapter<OtherRecipesAdapter.OtherViewHolder>() {
+class RecipesListAdapter(private val recipes: List<Recipe>, private val activity: FragmentActivity) :
+    RecyclerView.Adapter<RecipesListAdapter.RecipeViewHolder>() {
 
-    class OtherViewHolder(view: View) : RecyclerView.ViewHolder(view) {
+    class  RecipeViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         val image: ImageView = view.findViewById(R.id.other_image)
         val title: TextView = view.findViewById(R.id.other_title)
         val time: TextView = view.findViewById(R.id.other_time)
         val rating: TextView = view.findViewById(R.id.other_rating)
     }
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): OtherViewHolder {
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecipeViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_other, parent, false)
-        return OtherViewHolder(view)
+        return  RecipeViewHolder(view)
     }
 
-    override fun onBindViewHolder(holder: OtherViewHolder, position: Int) {
-        val recipe = otherList[position]
+    override fun onBindViewHolder(holder:  RecipeViewHolder, position: Int) {
+        val recipe = recipes[position]
         Glide.with(holder.itemView.context)
             .load(recipe.image)
             .into(holder.image)
@@ -34,7 +34,7 @@ class OtherRecipesAdapter(private val otherList: List<Recipe>, private val activ
         holder.title.text = recipe.recipe_name
         holder.time.text = recipe.time
         holder.rating.text = recipe.rating.toString()
-        
+
         holder.itemView.setOnClickListener {
             val fragment = RecipeDetailsFragment()
             val bundle = Bundle()
@@ -48,5 +48,5 @@ class OtherRecipesAdapter(private val otherList: List<Recipe>, private val activ
         }
     }
 
-    override fun getItemCount(): Int = otherList.size
+    override fun getItemCount(): Int = recipes.size
 }

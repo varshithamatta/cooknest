@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    android:background="@android:color/white"
+    android:background="@drawable/img"
     android:padding="24dp">
 
     <!-- Box Layout using CardView -->
@@ -42,6 +42,7 @@
                 android:gravity="center"
                 android:paddingBottom="24dp"
                 android:text="Discover, Cook, Enjoy!"
+                android:textStyle="italic"
                 android:textSize="16sp" />
 
             <!-- Email Label -->
@@ -95,7 +96,7 @@
                 android:layout_width="157dp"
                 android:layout_height="50dp"
                 android:layout_marginTop="20dp"
-                android:backgroundTint="@android:color/holo_blue_dark"
+                android:backgroundTint="@color/orange"
                 android:gravity="center"
                 android:text="Login"
                 android:textColor="@android:color/white"
@@ -140,7 +141,7 @@
                 android:focusable="true"
                 android:gravity="center"
                 android:text="Register Now"
-                android:textColor="@android:color/holo_red_dark"
+                android:textColor="@color/orange"
                 android:textSize="16sp"
                 android:textStyle="bold" />
         </LinearLayout>

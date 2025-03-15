@@ -46,6 +46,7 @@ dependencies {
     implementation("com.google.android.gms:play-services-auth:20.7.0")
     implementation(platform("com.google.firebase:firebase-bom:33.9.0"))
     implementation("com.github.bumptech.glide:glide:4.14.2")
+    implementation(libs.androidx.navigation.fragment.ktx)
     annotationProcessor("com.github.bumptech.glide:compiler:4.14.2")
     implementation("de.hdodenhof:circleimageview:3.1.0")
     implementation("com.google.code.gson:gson:2.8.9")

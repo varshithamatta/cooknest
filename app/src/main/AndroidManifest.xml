@@ -15,16 +15,18 @@
         android:theme="@style/Theme.CookNest"
         tools:targetApi="31">
 
+
         <meta-data
             android:name="com.google.android.gms.auth.api.credentials.ClientId"
             android:value="@string/default_web_client_id" />
+
 
         <activity
             android:name=".SignUpActivity"
             android:exported="false" />
         <activity
             android:name=".LoginActivity"
-            android:exported="true" >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -33,10 +35,7 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="true">
-
-
-        </activity>
+            android:exported="true"></activity>
     </application>
 
 </manifest>

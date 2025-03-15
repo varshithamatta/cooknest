@@ -4,7 +4,7 @@
 "id": 1,
 "recipe_name": "Paneer Butter Masala",
 "image": "https://www.ruchiskitchen.com/wp-content/uploads/2020/12/Paneer-butter-masala-recipe-3-500x500.jpg",
-"cuisine_type": "Indian",
+"cuisine_type": "Indian", "chefName": "Chef Vikas",
 "rating": 4.8,
 "time": "40 mins",
 "type": "Veg",
@@ -35,7 +35,7 @@
 "id": 2,
 "recipe_name": "Chicken Biryani",
 "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg",
-"cuisine_type": "Indian",
+"cuisine_type": "Indian", "chefName": "Chef Vikas",
 "rating": 4.9,
 "time": "1 hr",
 "type": "Non-Veg",
@@ -69,7 +69,7 @@
 "id": 3,
 "recipe_name": "Mutton Biryani",
 "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Mutton-Biryani-Recipe.jpg",
-"cuisine_type": "Indian",
+"cuisine_type": "Indian", "chefName": "Chef Vikas",
 "rating": 4.9,
 "time": "1 hr 30 mins",
 "type": "Non-Veg",
@@ -104,7 +104,7 @@
 "id": 4,
 "recipe_name": "Prawn Biryani",
 "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Prawns-Biryani-1.jpg",
-"cuisine_type": "Indian",
+"cuisine_type": "Indian", "chefName": "Chef Vikas",
 "rating": 4.8,
 "time": "1 hr",
 "type": "Non-Veg",
@@ -139,7 +139,7 @@
 "id": 5,
 "recipe_name": "Gongura Chicken",
 "image": "https://www.kohfoods.in/cdn/shop/articles/Gemini_Generated_Image_blju8wblju8wblju.jpg?v=1717217214&width=1500",
-"cuisine_type": "Indian",
+"cuisine_type": "Indian", "chefName": "Chef Vikas",
 "rating": 4.7,
 "time": "50 mins",
 "type": "Non-Veg",
@@ -217,7 +217,7 @@
 "id": 7,
 "recipe_name": "Tandoori Chicken",
 "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-1.jpg",
-"cuisine_type": "Indian",
+"cuisine_type": "Indian", "chefName": "Chef Vikas",
 "rating": 4.9,
 "time": "1 hr 30 mins",
 "type": "Non-Veg",
@@ -255,7 +255,7 @@
     "id": 8,
     "recipe_name": "Dal Tadka",
     "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/03/Yellow-Dal-1.jpg",
-    "cuisine_type": "Indian",
+    "cuisine_type": "Indian", "chefName": "Chef Vikas",
     "rating": 4.8,
     "time": "40 mins",
     "type": "Veg",
@@ -295,7 +295,7 @@
     "id": 9,
     "recipe_name": "Peas Paratha",
     "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/02/Peas-Paratha-Recipe.jpg",
-    "cuisine_type": "Indian",
+    "cuisine_type": "Indian", "chefName": "Chef Vikas",
     "rating": 4.6,
     "time": "45 mins",
     "type": "Veg",
@@ -333,7 +333,7 @@
     "id": 10,
     "recipe_name": "Aloo Samosa",
     "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/08/Best-Indian-Punjabi-Samosa-1.jpg",
-    "cuisine_type": "Indian",
+    "cuisine_type": "Indian", "chefName": "Chef Vikas",
     "rating": 4.8,
     "time": "1 hr",
     "type": "Veg",
@@ -373,7 +373,7 @@
     "id": 11,
     "recipe_name": "Aloo Tikki",
     "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/08/Crispy-Aloo-Tikki.jpg",
-    "cuisine_type": "Indian",
+    "cuisine_type": "Indian", "chefName": "Chef Vikas",
     "rating": 4.7,
     "time": "40 mins",
     "type": "Veg",
@@ -406,7 +406,7 @@
     "id": 12,
     "recipe_name": "Pav Bhaji",
     "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Instant-Pot-Mumbai-Pav-Bhaji.jpg",
-    "cuisine_type": "Indian",
+    "cuisine_type": "Indian", "chefName": "Chef Vikas",
     "rating": 4.9,
     "time": "50 mins",
     "type": "Veg",
@@ -476,7 +476,7 @@
     "id": 14,
     "recipe_name": "Dahi Vada",
     "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/05/Soft-Fluffy-Dahi-Vada.jpg",
-    "cuisine_type": "Indian",
+    "cuisine_type": "Indian", "chefName": "Chef Vikas",
     "rating": 4.8,
     "time": "2 hrs",
     "type": "Veg",
@@ -513,7 +513,7 @@
     "id": 15,
     "recipe_name": "Bagara Baingan",
     "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/08/Hyderabadi-Bagara-Baingan-1.jpg",
-    "cuisine_type": "Indian",
+    "cuisine_type": "Indian", "chefName": "Chef Vikas",
     "rating": 4.7,
     "time": "50 mins",
     "type": "Veg",
@@ -532,9 +532,7 @@
       "1 tbsp Tamarind Pulp",
       "1 tbsp Jaggery (optional)",
       "Salt to taste",
-      "Fresh Coriander Leaves (for garnish)"
-    ],
-    "for_masala_paste": [
+      "Fresh Coriander Leaves (for garnish)",
       "2 tbsp Peanuts",
       "1 tbsp Sesame Seeds",
       "2 tbsp Grated Coconut",
@@ -558,7 +556,7 @@
     "id": 16,
     "recipe_name": "Rajma",
     "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/04/Punjabi-Rajma-Recipe.jpg",
-    "cuisine_type": "Indian",
+    "cuisine_type": "Indian", "chefName": "Chef Vikas",
     "rating": 4.8,
     "time": "1 hr 30 mins",
     "type": "Veg",
@@ -590,5 +588,1678 @@
       "Garnish with chopped coriander leaves and serve hot with steamed rice or roti."
     ],
     "liked": false
+  },
+  {
+    "id": 16,
+    "recipe_name": "Mexican Potatoes",
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2023/09/Air-Fryer-Mexican-Potatoes-2.jpg",
+    "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+    "rating": 4.7,
+    "time": "45 mins",
+    "type": "Veg",
+    "description": "Crispy, spicy roasted potatoes with Mexican seasoning, perfect as a side dish or snack.",
+    "ingredients": [
+      "4 Medium Potatoes (diced)",
+      "2 tbsp Olive Oil",
+      "1 tsp Garlic Powder",
+      "1 tsp Smoked Paprika",
+      "1/2 tsp Cumin Powder",
+      "1/2 tsp Chili Powder",
+      "1/2 tsp Oregano",
+      "1/2 tsp Salt",
+      "1/2 tsp Black Pepper",
+      "1 tbsp Fresh Cilantro (chopped, for garnish)",
+      "1 tbsp Lime Juice (for serving)"
+    ],
+    "instructions": [
+      "Preheat oven to 200°C (400°F) and line a baking sheet with parchment paper.",
+      "In a bowl, mix olive oil, garlic powder, smoked paprika, cumin, chili powder, oregano, salt, and black pepper.",
+      "Toss the diced potatoes in the spice mixture until evenly coated.",
+      "Spread the potatoes in a single layer on the baking sheet.",
+      "Roast for 30-35 minutes, flipping halfway, until crispy and golden brown.",
+      "Garnish with fresh cilantro and drizzle with lime juice before serving."
+    ],
+    "liked": false
+  },
+
+  {
+    "id": 17,
+    "recipe_name": "Tacos",
+    "image": "https://www.jocooks.com/wp-content/uploads/2020/08/ground-beef-tacos-1-11.jpg",
+    "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+    "rating": 4.9,
+    "time": "30 mins",
+    "type": "Non-Veg",
+    "description": "Classic Mexican tacos with seasoned meat, fresh toppings, and soft tortillas.",
+    "ingredients": [
+      "8 Small Corn Tortillas",
+      "500g Ground Beef or Chicken",
+      "1 tbsp Olive Oil",
+      "1 tsp Garlic Powder",
+      "1 tsp Cumin Powder",
+      "1 tsp Paprika",
+      "1/2 tsp Chili Powder",
+      "1/2 tsp Salt",
+      "1/2 tsp Black Pepper",
+      "1 Tomato (chopped)",
+      "1/2 Onion (chopped)",
+      "1/2 cup Shredded Lettuce",
+      "1/2 cup Grated Cheese",
+      "1/4 cup Sour Cream",
+      "Fresh Cilantro for garnish",
+      "Lime wedges for serving"
+    ],
+    "instructions": [
+      "Heat oil in a pan and cook ground meat until browned.",
+      "Add garlic powder, cumin, paprika, chili powder, salt, and black pepper. Cook for 5 minutes.",
+      "Warm tortillas in a dry skillet for a few seconds on each side.",
+      "Assemble tacos by placing the cooked meat onto the tortillas.",
+      "Top with lettuce, tomatoes, onions, cheese, and sour cream.",
+      "Garnish with fresh cilantro and serve with lime wedges."
+    ],
+    "liked": true
+  },
+  {
+    "id": 18,
+    "recipe_name": "Mexican Pizza",
+    "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2019/07/Mexican-Pizza-Thumbnail-11.jpg",
+    "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+    "rating": 4.8,
+    "time": "40 mins",
+    "type": "Veg",
+    "description": "A delicious fusion of Mexican flavors on a crispy tortilla base, topped with beans, cheese, and salsa.",
+    "ingredients": [
+      "4 Large Flour Tortillas",
+      "1 cup Refried Beans",
+      "1/2 cup Salsa",
+      "1 cup Shredded Cheese (Cheddar or Mexican Blend)",
+      "1/2 cup Chopped Tomatoes",
+      "1/4 cup Sliced Black Olives",
+      "1/4 cup Chopped Green Onions",
+      "1 tsp Taco Seasoning",
+      "1 tbsp Olive Oil",
+      "Sour Cream and Guacamole for serving"
+    ],
+    "instructions": [
+      "Preheat oven to 200°C (400°F).",
+      "Brush tortillas with olive oil and bake for 5 minutes until crispy.",
+      "Spread refried beans over each tortilla, then top with salsa and taco seasoning.",
+      "Sprinkle shredded cheese on top and bake for 10 minutes until cheese melts.",
+      "Add chopped tomatoes, olives, and green onions as toppings.",
+      "Slice and serve hot with sour cream and guacamole."
+    ],
+    "liked": false
+  },
+  {
+    "id": 19,
+    "recipe_name": "Burritos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burrito.JPG/640px-Burrito.JPG",
+    "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+    "rating": 4.8,
+    "time": "35 mins",
+    "type": "Non-Veg",
+    "description": "A hearty and filling Mexican burrito packed with meat, rice, beans, and fresh toppings.",
+    "ingredients": [
+      "4 Large Flour Tortillas",
+      "500g Ground Beef or Chicken",
+      "1 tbsp Olive Oil",
+      "1 cup Cooked Rice",
+      "1 cup Black Beans",
+      "1/2 cup Salsa",
+      "1 cup Shredded Cheese",
+      "1/2 cup Sour Cream",
+      "1/2 cup Guacamole",
+      "1/2 cup Chopped Lettuce",
+      "1 Tomato (chopped)",
+      "1 tsp Taco Seasoning",
+      "1/2 tsp Garlic Powder",
+      "1/2 tsp Cumin Powder",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil in a pan and cook ground meat until browned.",
+      "Add taco seasoning, garlic powder, cumin, and salt. Cook for 5 minutes.",
+      "Warm tortillas in a dry skillet.",
+      "Layer cooked rice, black beans, meat, salsa, shredded cheese, sour cream, guacamole, lettuce, and chopped tomatoes on each tortilla.",
+      "Fold the sides and roll tightly into a burrito.",
+      "Serve warm with extra salsa or guacamole."
+    ],
+    "liked": true
+  },
+
+  {
+    "id": 20,
+    "recipe_name": "Salsa Verde Chicken Casserole",
+    "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Salsa-Verde-Chicken-Casserole_EXPS_OPBZ18_164054_B06_07_3b-5-e1722261937460.jpg?fit=700,700 ",
+    "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+    "rating": 4.9,
+    "time": "50 mins",
+    "type": "Non-Veg",
+    "description": "A delicious and cheesy chicken casserole with tangy salsa verde, tortillas, and melted cheese.",
+    "ingredients": [
+      "2 cups Cooked Shredded Chicken",
+      "1 cup Salsa Verde",
+      "1 cup Sour Cream",
+      "1 tsp Garlic Powder",
+      "1 tsp Cumin Powder",
+      "1/2 tsp Salt",
+      "1/2 tsp Black Pepper",
+      "1 1/2 cups Shredded Cheese (Mexican Blend or Cheddar)",
+      "6 Small Corn Tortillas (cut into strips)",
+      "1/2 cup Chopped Fresh Cilantro",
+      "1/2 cup Diced Onion",
+      "1 tbsp Olive Oil"
+    ],
+    "instructions": [
+      "Preheat oven to 180°C (350°F) and grease a baking dish.",
+      "In a bowl, mix shredded chicken, salsa verde, sour cream, garlic powder, cumin, salt, and black pepper.",
+      "Layer half of the tortilla strips in the baking dish.",
+      "Spread half of the chicken mixture over the tortillas.",
+      "Sprinkle half of the shredded cheese and half of the onions over the layer.",
+      "Repeat the layers with remaining ingredients.",
+      "Bake for 25-30 minutes until cheese is melted and bubbly.",
+      "Garnish with chopped cilantro and serve hot."
+    ],
+    "liked": false
+  },
+    {
+      "id": 21,
+      "recipe_name": "Chiles Rellenos",
+      "image": "https://www.allrecipes.com/thmb/yn8MArSSJf7cOxPf_YH-KWg8Z9o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/219646-Authentic-Mexican-Chile-Rellenos-DDMFS-3033-2x1-Beauty-0fd05bac230a491db245b9c7c639bb27.jpg",
+      "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+      "rating": 4.8,
+      "time": "1 hr",
+      "type": "Veg",
+      "description": "Poblano peppers stuffed with cheese, dipped in egg batter, and fried to golden perfection.",
+      "ingredients": [
+        "4 Large Poblano Peppers",
+        "1 1/2 cups Shredded Cheese (Queso Fresco or Monterey Jack)",
+        "3 Large Eggs",
+        "1/2 cup All-Purpose Flour",
+        "1/2 tsp Salt",
+        "1/2 tsp Black Pepper",
+        "1 cup Tomato Sauce",
+        "1/2 cup Vegetable Oil",
+        "1 tsp Garlic Powder",
+        "1 tsp Cumin Powder"
+      ],
+      "instructions": [
+        "Roast poblano peppers over an open flame until the skin is charred. Let them cool and peel off the skin.",
+        "Make a slit in each pepper and remove the seeds.",
+        "Stuff each pepper with shredded cheese and close the slit.",
+        "Separate egg whites from yolks. Beat whites until fluffy, then fold in yolks and salt.",
+        "Dust peppers with flour and dip them into the egg mixture.",
+        "Heat oil in a pan and fry the peppers until golden brown on all sides.",
+        "Simmer tomato sauce with garlic and cumin for 5 minutes, then pour over the fried peppers.",
+        "Serve hot with rice or tortillas."
+      ],
+      "liked": false
+    },
+    {
+      "id": 22,
+      "recipe_name": "Refried Beans",
+      "image": "https://www.allrecipes.com/thmb/M7cF4MGiiYs4Q03PXXsCT-90Foc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/70312-Refried-Beans-Without-the-Fry-DDMFS-4X3-2643-f6a23c1b1e5d41108f8a1e7a07284202.jpg",
+      "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+      "rating": 4.7,
+      "time": "30 mins",
+      "type": "Veg",
+      "description": "Creamy and flavorful mashed pinto beans cooked with garlic, onions, and spices.",
+      "ingredients": [
+        "2 cups Cooked Pinto Beans (or canned beans, drained)",
+        "2 tbsp Vegetable Oil or Lard",
+        "1/2 cup Chopped Onion",
+        "2 Garlic Cloves (minced)",
+        "1/2 tsp Cumin Powder",
+        "1/2 tsp Chili Powder",
+        "Salt to taste",
+        "1/2 cup Water or Bean Broth",
+        "1/4 cup Shredded Cheese (optional)",
+        "Fresh Cilantro for garnish"
+      ],
+      "instructions": [
+        "Heat oil in a pan over medium heat.",
+        "Sauté onions until soft, then add minced garlic and cook for 1 minute.",
+        "Add the cooked beans, cumin, chili powder, and salt.",
+        "Mash the beans with a potato masher or the back of a spoon while cooking.",
+        "Add water or bean broth gradually to reach the desired consistency.",
+        "Simmer for 5-10 minutes, stirring occasionally.",
+        "Top with shredded cheese and fresh cilantro before serving.",
+        "Serve warm as a side dish or filling for tacos and burritos."
+      ],
+      "liked": false
+    },
+    {
+      "id": 23,
+      "recipe_name": "Mexican Rice",
+      "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Easy-Authentic-Mexican-Rice-Recipe-With-Corn-500x375.jpg",
+      "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+      "rating": 4.8,
+      "time": "35 mins",
+      "type": "Veg",
+      "description": "A flavorful and aromatic rice dish cooked with tomatoes, garlic, and spices.",
+      "ingredients": [
+        "1 cup Long-Grain White Rice",
+        "2 tbsp Vegetable Oil",
+        "1/2 cup Chopped Onion",
+        "2 Garlic Cloves (minced)",
+        "1 cup Tomato Sauce or Pureed Tomatoes",
+        "1 1/2 cups Vegetable or Chicken Broth",
+        "1/2 tsp Cumin Powder",
+        "1/2 tsp Chili Powder",
+        "1/2 tsp Salt",
+        "1/2 cup Peas (optional)",
+        "1/4 cup Chopped Fresh Cilantro (for garnish)"
+      ],
+      "instructions": [
+        "Heat oil in a pan over medium heat.",
+        "Add rice and sauté until golden brown, about 5 minutes.",
+        "Add chopped onions and garlic, cooking until fragrant.",
+        "Stir in tomato sauce, broth, cumin, chili powder, and salt.",
+        "Bring to a boil, then cover and reduce heat to low.",
+        "Simmer for 20 minutes or until rice is cooked and liquid is absorbed.",
+        "Fluff the rice with a fork and stir in peas, if using.",
+        "Garnish with fresh cilantro before serving."
+      ],
+      "liked": false
+    },
+    {
+      "id": 24,
+      "recipe_name": "Mexican Street Corn (Elote)",
+      "image": "https://themodernnonna.com/wp-content/uploads/2022/06/Mexican-Street-Corn-2.jpg",
+      "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+      "rating": 4.9,
+      "time": "20 mins",
+      "type": "Veg",
+      "description": "Grilled corn on the cob coated with creamy, cheesy, and spicy toppings.",
+      "ingredients": [
+        "4 Ears of Corn (Husked)",
+        "1/2 cup Mayonnaise",
+        "1/2 cup Sour Cream",
+        "1 cup Cotija Cheese (crumbled)",
+        "1 tsp Chili Powder",
+        "1 tsp Garlic Powder",
+        "1 tbsp Lime Juice",
+        "2 tbsp Fresh Cilantro (chopped)",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Preheat grill to medium-high heat.",
+        "Grill corn directly over the flame, turning occasionally, until slightly charred (about 10 minutes).",
+        "In a bowl, mix mayonnaise, sour cream, lime juice, garlic powder, and salt.",
+        "Brush the mixture over the grilled corn.",
+        "Sprinkle crumbled Cotija cheese and chili powder evenly over the corn.",
+        "Garnish with fresh cilantro and serve warm."
+      ],
+      "liked": false
+    },
+    {
+      "id": 25,
+      "recipe_name": "Guacamole",
+      "image": "https://t3.ftcdn.net/jpg/00/99/07/42/360_F_99074252_aCglAEpkfqyR8Jrn1Z1teDnuvn0pYKBz.jpg",
+      "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+      "rating": 4.9,
+      "time": "10 mins",
+      "type": "Veg",
+      "description": "A creamy and flavorful avocado dip made with fresh ingredients.",
+      "ingredients": [
+        "3 Ripe Avocados",
+        "1/2 cup Diced Tomato",
+        "1/4 cup Finely Chopped Onion",
+        "1/4 cup Chopped Fresh Cilantro",
+        "1 Jalapeño (seeded and minced)",
+        "1 tbsp Lime Juice",
+        "1/2 tsp Salt",
+        "1/2 tsp Garlic Powder"
+      ],
+      "instructions": [
+        "Cut the avocados in half, remove the pits, and scoop the flesh into a bowl.",
+        "Mash the avocados with a fork until smooth or chunky, depending on preference.",
+        "Add diced tomato, onion, cilantro, and jalapeño.",
+        "Mix in lime juice, salt, and garlic powder.",
+        "Stir well and adjust seasoning as needed.",
+        "Serve immediately with tortilla chips or as a topping for tacos and burritos."
+      ],
+      "liked": false
+    },
+
+    {
+      "id": 26,
+      "recipe_name": "Chilaquiles",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1vVu2ykw0SvXCOpl6MgchWWysyOHLWnjPsg&s",
+      "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+      "rating": 4.8,
+      "time": "25 mins",
+      "type": "Veg",
+      "description": "A traditional Mexican breakfast dish made with crispy tortilla chips simmered in salsa and topped with cheese and eggs.",
+      "ingredients": [
+        "4 Corn Tortillas (cut into triangles)",
+        "1 cup Red or Green Salsa",
+        "1/2 cup Crumbled Queso Fresco or Feta Cheese",
+        "1/4 cup Chopped Fresh Cilantro",
+        "1/2 cup Sour Cream",
+        "1/4 cup Diced Onion",
+        "2 Fried Eggs (optional)",
+        "Salt to taste",
+        "1 tbsp Vegetable Oil"
+      ],
+      "instructions": [
+        "Heat oil in a pan and fry tortilla pieces until crispy, then remove and drain excess oil.",
+        "In the same pan, add salsa and simmer for 2 minutes.",
+        "Add the fried tortilla chips and gently mix to coat with salsa.",
+        "Top with crumbled queso fresco, onion, and cilantro.",
+        "Optionally, add fried eggs on top and serve with sour cream."
+      ],
+      "liked": false
+    },
+    {
+      "id": 27,
+      "recipe_name": "Tostadas",
+      "image": "https://kaleforniakravings.com/wp-content/uploads/2024/03/Ground-beef-tostadas-6.jpg",
+      "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+      "rating": 4.7,
+      "time": "20 mins",
+      "type": "Non-Veg",
+      "description": "Crunchy tortillas topped with beans, meat, cheese, and fresh toppings.",
+      "ingredients": [
+        "4 Corn Tortillas",
+        "1 cup Refried Beans",
+        "1/2 cup Cooked and Shredded Chicken or Beef",
+        "1/2 cup Shredded Lettuce",
+        "1/4 cup Diced Tomato",
+        "1/4 cup Chopped Onion",
+        "1/2 cup Shredded Cheese",
+        "1/4 cup Sour Cream",
+        "1 tbsp Vegetable Oil",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Heat oil in a pan and fry tortillas until crispy, then remove and drain excess oil.",
+        "Spread a layer of refried beans on each tortilla.",
+        "Top with shredded chicken or beef, lettuce, tomato, onion, and cheese.",
+        "Drizzle with sour cream and serve immediately."
+      ],
+      "liked": false
+    },
+
+    {
+      "id": 28,
+      "recipe_name": "Quesadillas",
+      "image": "https://www.closetcooking.com/wp-content/uploads/2023/05/Chicken-al-Pastor-Quesadillas-1200-4423.jpg",
+      "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+      "rating": 4.9,
+      "time": "15 mins",
+      "type": "Veg",
+      "description": "A simple and cheesy Mexican dish made with tortillas and melted cheese.",
+      "ingredients": [
+        "2 Flour Tortillas",
+        "1 cup Shredded Cheese (Cheddar, Monterey Jack, or Mexican Blend)",
+        "1 tbsp Butter",
+        "1/4 cup Salsa (for dipping)",
+        "1/4 cup Sour Cream (optional)"
+      ],
+      "instructions": [
+        "Heat a pan over medium heat and melt butter.",
+        "Place a tortilla in the pan and sprinkle cheese evenly over it.",
+        "Top with another tortilla and cook for 2-3 minutes per side until golden brown and crispy.",
+        "Slice into wedges and serve with salsa and sour cream."
+      ],
+      "liked": false
+    },
+    {
+      "id": 29,
+      "recipe_name": "Mexican Scrambled Eggs (Huevos a la Mexicana)",
+      "image": "https://www.allrecipes.com/thmb/rEY5-atv3Z4xFsjhbaiFvigu1BE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4104671-f1cacd6876ae48f48390f8ed495bb77d.jpg",
+      "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+      "rating": 4.8,
+      "time": "10 mins",
+      "type": "Veg",
+      "description": "Scrambled eggs cooked with tomatoes, onions, and jalapeños for a flavorful breakfast.",
+      "ingredients": [
+        "3 Eggs",
+        "1/4 cup Diced Tomato",
+        "1/4 cup Chopped Onion",
+        "1 Jalapeño (seeded and chopped)",
+        "1 tbsp Butter or Oil",
+        "Salt to taste",
+        "Fresh Cilantro for garnish"
+      ],
+      "instructions": [
+        "Heat butter or oil in a pan over medium heat.",
+        "Sauté onions and jalapeños until softened.",
+        "Add diced tomatoes and cook for another minute.",
+        "Crack eggs into the pan and scramble until fully cooked.",
+        "Season with salt and garnish with fresh cilantro before serving."
+      ],
+      "liked": false
+    },
+    {
+      "id": 30,
+      "recipe_name": "Gorditas",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gorditas-1-1676665006.jpg?crop=0.889090909090909xw:1xh;center,top&resize=1200:*",
+      "cuisine_type": "Mexican", "chefName": "Chef  Andrea",
+      "rating": 4.7,
+      "time": "30 mins",
+      "type": "Veg",
+      "description": "Thick corn tortillas stuffed with beans, cheese, or meat.",
+      "ingredients": [
+        "2 cups Masa Harina",
+        "1 1/4 cups Warm Water",
+        "1/2 tsp Salt",
+        "1/2 cup Refried Beans or Cooked Meat (for filling)",
+        "1/2 cup Shredded Cheese",
+        "1/4 cup Sour Cream",
+        "Vegetable Oil (for frying)"
+      ],
+      "instructions": [
+        "Mix masa harina, warm water, and salt to form a dough.",
+        "Divide the dough into small balls and flatten into thick discs.",
+        "Heat oil in a pan and fry the discs until golden and puffy.",
+        "Slice open and stuff with refried beans, cheese, or meat.",
+        "Top with sour cream and serve warm."
+      ],
+      "liked": false
+    },
+  {
+    "id": 31,
+    "recipe_name": "Margherita Pizza",
+    "image": " https://img.freepik.com/premium-photo/italian-pizza-margherita-black-background_356194-1114.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.9,
+    "time": "30 mins",
+    "type": "Veg",
+    "description": "A classic Neapolitan pizza topped with tomato sauce, mozzarella, and fresh basil.",
+    "ingredients": [
+      "1 Pizza Dough",
+      "1/2 cup Tomato Sauce",
+      "100g Mozzarella Cheese",
+      "Fresh Basil Leaves",
+      "1 tbsp Olive Oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 250°C (480°F).",
+      "Roll out the pizza dough and spread tomato sauce evenly.",
+      "Top with mozzarella cheese and fresh basil leaves.",
+      "Drizzle olive oil and bake for 10-12 minutes until crispy.",
+      "Serve hot."
+    ],
+    "liked": false
+  },
+
+
+
+  {
+    "id": 32,
+    "recipe_name": "Pasta Carbonara",
+    "image": " https://thumbs.dreamstime.com/b/parmesan-cheese-bacon-dark-background-delicious-pasta-carbonara-shown-333811351.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.8,
+    "time": "25 mins",
+    "type": "Non-Veg",
+    "description": "A creamy pasta dish made with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g Spaghetti",
+      "100g Pancetta (or Bacon)",
+      "2 Eggs",
+      "1/2 cup Parmesan Cheese",
+      "1 tsp Black Pepper",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crispy.",
+      "Whisk eggs, Parmesan, and black pepper together.",
+      "Mix hot pasta with pancetta, then add egg mixture and stir quickly.",
+      "Serve with extra Parmesan on top."
+    ],
+    "liked": false
+  },
+  {
+    "id": 33,
+    "recipe_name": "Lasagna",
+    "image": " https://static.vecteezy.com/system/resources/previews/050/944/981/non_2x/delicious-lasagna-with-zucchini-on-black-plate-being-served-for-dinner-photo.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.9,
+    "time": "1 hr 15 mins",
+    "type": "Non-Veg",
+    "description": "Layered pasta with rich meat sauce, creamy béchamel, and melted cheese.",
+    "ingredients": [
+      "12 Lasagna Sheets",
+      "500g Ground Beef",
+      "2 cups Tomato Sauce",
+      "1 cup Ricotta Cheese",
+      "1 cup Mozzarella Cheese",
+      "1/2 cup Parmesan Cheese",
+      "Salt and Pepper to taste"
+    ],
+    "instructions": [
+      "Cook lasagna sheets as per package instructions.",
+      "Cook ground beef, add tomato sauce, and simmer for 15 minutes.",
+      "Layer pasta, meat sauce, ricotta, and mozzarella in a baking dish.",
+      "Repeat layers and top with Parmesan cheese.",
+      "Bake at 180°C (350°F) for 40 minutes."
+    ],
+    "liked": false
+  },
+  {
+    "id": 34,
+    "recipe_name": "Tiramisu",
+    "image": " https://img.freepik.com/premium-photo/italian-tiramisu-cake-with-cocoa-mint-plate-black-background-top-view_89816-32883.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 5.0,
+    "time": "30 mins",
+    "type": "Veg",
+    "description": "A classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+    "ingredients": [
+      "250g Mascarpone Cheese",
+      "200g Ladyfingers",
+      "1 cup Brewed Espresso",
+      "2 tbsp Cocoa Powder",
+      "1/2 cup Sugar",
+      "2 Eggs"
+    ],
+    "instructions": [
+      "Beat egg yolks and sugar until creamy, then add mascarpone.",
+      "Dip ladyfingers in coffee and layer with mascarpone mixture.",
+      "Repeat layers and refrigerate for 4 hours.",
+      "Dust with cocoa powder before serving."
+    ],
+    "liked": false
+  },
+ {
+    "id": 35,
+    "recipe_name": "Risotto alla Milanese",
+    "image": " https://media.istockphoto.com/id/1057431080/photo/risotto-milanese-an-italian-recipe-typical-of-milan-closeup-horizontal.jpg?s=612x612&w=0&k=20&c=mxHzf7J9vSLMi2ey3b4HfKO830V2IkyVBIwHcWDNnQc= ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.7,
+    "time": "40 mins",
+    "type": "Veg",
+    "description": "A creamy saffron-flavored risotto from Milan.",
+    "ingredients": [
+      "200g Arborio Rice",
+      "4 cups Chicken Broth",
+      "1 Onion (finely chopped)",
+      "1/2 cup White Wine",
+      "1/2 cup Parmesan Cheese",
+      "1/4 tsp Saffron",
+      "2 tbsp Butter"
+    ],
+    "instructions": [
+      "Sauté onions in butter until soft.",
+      "Add rice and cook for 2 minutes.",
+      "Pour in wine and let it evaporate.",
+      "Gradually add broth, stirring continuously.",
+      "Stir in saffron and Parmesan cheese before serving."
+    ],
+    "liked": false
+  },
+ {
+    "id": 36,
+    "recipe_name": "Fettuccine Alfredo",
+    "image": " https://thumbs.dreamstime.com/b/chicken-alfredo-tagliatelle-greens-cream-sauce-dark-background-fettuccine-meal-created-generative-ai-288562798.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.7,
+    "time": "30 mins",
+    "type": "Veg",
+    "description": "A creamy and rich pasta dish made with butter, cream, and Parmesan cheese.",
+    "ingredients": [
+      "200g Fettuccine",
+      "2 tbsp Butter",
+      "1 cup Heavy Cream",
+      "1 cup Parmesan Cheese",
+      "Salt to taste",
+      "Black Pepper to taste",
+      "Parsley for garnish"
+    ],
+    "instructions": [
+      "Cook fettuccine according to package instructions.",
+      "Melt butter in a pan and add heavy cream.",
+      "Stir in Parmesan cheese until smooth.",
+      "Toss cooked pasta in the sauce and season with salt and pepper.",
+      "Garnish with parsley and serve hot."
+    ],
+    "liked": false
+  },
+ {
+    "id": 37,
+    "recipe_name": "Bruschetta",
+    "image": " https://media.istockphoto.com/id/840473262/photo/bruschetta-with-cheese-and-vegetables-on-black-background.jpg?s=170667a&w=0&k=20&c=G1aqrABCTmjf-k02tn6mLSxHqsyBol7_0jpfXLeuQkw= ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.8,
+    "time": "15 mins",
+    "type": "Veg",
+    "description": "Grilled bread topped with fresh tomatoes, basil, and olive oil.",
+    "ingredients": [
+      "4 slices Baguette",
+      "2 Tomatoes (diced)",
+      "1 tbsp Olive Oil",
+      "1 clove Garlic (minced)",
+      "Fresh Basil (chopped)",
+      "Salt to taste",
+      "Black Pepper to taste"
+    ],
+    "instructions": [
+      "Toast baguette slices until golden brown.",
+      "Mix tomatoes, olive oil, garlic, basil, salt, and pepper.",
+      "Top toasted bread with tomato mixture and serve."
+    ],
+    "liked": false
+  },
+ {
+    "id": 38,
+    "recipe_name": "Minestrone Soup",
+    "image": " https://i.pinimg.com/736x/48/0d/94/480d94d450d286caa8488e918e78476c.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.6,
+    "time": "45 mins",
+    "type": "Veg",
+    "description": "A hearty vegetable soup with beans and pasta.",
+    "ingredients": [
+      "1 Onion (chopped)",
+      "1 Carrot (chopped)",
+      "1 Zucchini (chopped)",
+      "1 cup Kidney Beans",
+      "1 cup Diced Tomatoes",
+      "4 cups Vegetable Broth",
+      "1/2 cup Pasta",
+      "Salt to taste",
+      "Black Pepper to taste"
+    ],
+    "instructions": [
+      "Sauté onion, carrot, and zucchini in a pot.",
+      "Add tomatoes, kidney beans, and vegetable broth.",
+      "Simmer for 30 minutes, then add pasta and cook until tender.",
+      "Season with salt and pepper, then serve hot."
+    ],
+    "liked": false
+  },
+
+
+  {
+    "id": 39,
+    "recipe_name": "Gnocchi",
+    "image": " https://img.freepik.com/premium-photo/italian-gnocchi-dumplings-raw-potato-gnocchi-plate-with-thyme-dark-background-top-view_89816-36722.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.9,
+    "time": "35 mins",
+    "type": "Veg",
+    "description": "Soft potato dumplings served with a flavorful sauce.",
+    "ingredients": [
+      "2 Potatoes (boiled and mashed)",
+      "1 cup All-Purpose Flour",
+      "1 Egg",
+      "1/2 tsp Salt",
+      "1/2 cup Parmesan Cheese",
+      "1 cup Marinara Sauce"
+    ],
+    "instructions": [
+      "Mix mashed potatoes, flour, egg, and salt to form a dough.",
+      "Roll into small pieces and boil until they float.",
+      "Serve with marinara sauce and Parmesan cheese."
+    ],
+    "liked": false
+  },
+
+
+
+
+
+
+  {
+    "id": 40,
+    "recipe_name": "Caprese Salad",
+    "image": " https://img.freepik.com/premium-photo/tasty-caprese-salad-with-basil-mozzarella-dark-background-food-photography_1281311-3953.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.8,
+    "time": "10 mins",
+    "type": "Veg",
+    "description": "A simple and fresh salad with tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "2 Tomatoes (sliced)",
+      "100g Mozzarella Cheese (sliced)",
+      "Fresh Basil Leaves",
+      "2 tbsp Olive Oil",
+      "Salt to taste",
+      "Black Pepper to taste"
+    ],
+    "instructions": [
+      "Arrange tomato and mozzarella slices on a plate.",
+      "Add fresh basil leaves on top.",
+      "Drizzle with olive oil, season with salt and pepper, and serve."
+    ],
+    "liked": false
+  },
+
+
+
+
+
+
+  {
+    "id": 41,
+    "recipe_name": "Osso Buco",
+    "image": " https://img.freepik.com/premium-photo/osso-buco-cross-cut-veal-shank-with-mashed-potato-plate-dark-background-top-view_89816-48518.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.7,
+    "time": "2 hrs",
+    "type": "Non-Veg",
+    "description": "A slow-cooked braised veal shank dish served with a rich sauce.",
+    "ingredients": [
+      "2 Veal Shanks",
+      "1 Onion (chopped)",
+      "1 Carrot (chopped)",
+      "1 Celery Stick (chopped)",
+      "1 cup White Wine",
+      "2 cups Beef Broth",
+      "1 tbsp Tomato Paste",
+      "Salt and Pepper to taste"
+    ],
+    "instructions": [
+      "Sear veal shanks until browned.",
+      "Sauté onion, carrot, and celery in the same pan.",
+      "Add white wine, broth, and tomato paste, then simmer for 1.5 hours.",
+      "Serve hot."
+    ],
+    "liked": false
+  },
+
+
+
+  {
+    "id": 42,
+    "recipe_name": "Carbonara",
+    "image": " https://img.freepik.com/premium-photo/pasta-carbonara-with-bacon-parmesan-pan-black-background-top-view_89816-22872.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.9,
+    "time": "25 mins",
+    "type": "Non-Veg",
+    "description": "A creamy pasta dish made with eggs, pancetta, Parmesan cheese, and black pepper.",
+    "ingredients": [
+      "200g Spaghetti",
+      "100g Pancetta (diced)",
+      "2 Egg Yolks",
+      "1/2 cup Parmesan Cheese (grated)",
+      "1/2 tsp Black Pepper",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cook spaghetti in salted boiling water until al dente.",
+      "Sauté pancetta in a pan until crispy.",
+      "Whisk egg yolks, Parmesan cheese, and black pepper in a bowl.",
+      "Drain pasta and mix with pancetta, then toss with egg mixture.",
+      "Serve immediately with extra Parmesan on top."
+    ],
+    "liked": false
+  },
+
+
+
+
+  {
+    "id": 43,
+    "recipe_name": "Cacciucco",
+    "image": " https://img.freepik.com/premium-photo/cacciucco-hearty-italian-seafood-stew-with-various-fish-shellfish_1235831-46287.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.7,
+    "time": "1 hr 30 mins",
+    "type": "Non-Veg",
+    "description": "A traditional Tuscan seafood stew made with a mix of fish, shellfish, and a rich tomato-based broth.",
+    "ingredients": [
+      "200g Mixed Seafood (Shrimp, Squid, Mussels, Clams)",
+      "2 Fish Fillets (cut into chunks)",
+      "1 Onion (chopped)",
+      "2 Garlic Cloves (minced)",
+      "1 cup Tomato Puree",
+      "1/2 cup White Wine",
+      "3 cups Fish Broth",
+      "1 tsp Red Pepper Flakes",
+      "Salt and Pepper to taste",
+      "Fresh Parsley for garnish"
+    ],
+    "instructions": [
+      "Sauté onions and garlic in a pot until fragrant.",
+      "Add tomato puree, white wine, and fish broth, then bring to a simmer.",
+      "Season with red pepper flakes, salt, and pepper.",
+      "Add fish fillets and cook for 10 minutes.",
+      "Add mixed seafood and simmer until fully cooked.",
+      "Serve hot with crusty bread and garnish with parsley."
+    ],
+    "liked": false
+  },
+  {
+    "id": 44,
+    "recipe_name": "Agnolotti del Plin",
+    "image": " https://www.chefbikeski.com/wp-content/uploads/2018/01/agnolotti-del-plin-above-wine-tours-barolo.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.9,
+    "time": "2 hrs",
+    "type": "Non-Veg",
+    "description": "A delicate handmade pasta from Piedmont filled with meat and cheese, traditionally served with butter and sage.",
+    "ingredients": [
+      "300g Pasta Dough",
+      "200g Braised Meat (Beef or Pork, shredded)",
+      "50g Parmesan Cheese (grated)",
+      "1 Egg",
+      "1 tsp Nutmeg",
+      "Salt and Pepper to taste",
+      "2 tbsp Butter",
+      "Fresh Sage Leaves"
+    ],
+    "instructions": [
+      "Roll out pasta dough into thin sheets.",
+      "Mix braised meat, Parmesan, egg, nutmeg, salt, and pepper to make the filling.",
+      "Place small amounts of filling on the dough and fold over, pinching to seal.",
+      "Cut into small pieces and boil in salted water until tender.",
+      "Sauté in butter and sage, then serve hot."
+    ],
+    "liked": false
+  },
+
+  {
+    "id": 45,
+    "recipe_name": "Castagnaccio",
+    "image": " https://www.shelovesbiscotti.com/wp-content/uploads/2022/11/Castagnaccio-1-1.jpg ",
+    "cuisine_type": "Italian", "chefName": "Chef Hudson",
+    "rating": 4.6,
+    "time": "50 mins",
+    "type": "Veg",
+    "description": "A rustic Tuscan chestnut cake made with chestnut flour, olive oil, and rosemary, perfect for an autumn treat.",
+    "ingredients": [
+      "250g Chestnut Flour",
+      "300ml Water",
+      "2 tbsp Olive Oil",
+      "1 tbsp Sugar",
+      "1/2 tsp Salt",
+      "50g Pine Nuts",
+      "50g Raisins",
+      "Fresh Rosemary Leaves"
+    ],
+    "instructions": [
+      "Preheat oven to 180°C (350°F).",
+      "Mix chestnut flour, water, olive oil, sugar, and salt into a smooth batter.",
+      "Pour into a greased baking dish and top with pine nuts, raisins, and rosemary.",
+      "Bake for 30-40 minutes until firm and golden brown.",
+      "Let cool before slicing and serving."
+    ],
+    "liked": false
+  },
+  {
+    "id": 46,
+    "recipe_name": "Kung Pao Chicken",
+    "image": " https://t4.ftcdn.net/jpg/10/86/50/33/360_F_1086503387_uueHAbgUYtKMuQimiJbnccsvm6ethMP7.jpg ",
+    "cuisine_type": "Chinese",
+    "rating": 4.8,
+    "time": "30 mins",
+    "type": "Non-Veg",
+    "description": "A spicy, stir-fried Chinese dish made with chicken, peanuts, vegetables, and chili peppers.",
+    "ingredients": [
+      "300g Chicken (cubed)",
+      "2 tbsp Soy Sauce",
+      "1 tbsp Cornstarch",
+      "2 tbsp Peanut Oil",
+      "2 Garlic Cloves (minced)",
+      "1 tsp Ginger (grated)",
+      "1/2 cup Roasted Peanuts",
+      "2 Dried Red Chilies (chopped)",
+      "1 tbsp Vinegar",
+      "1 tbsp Hoisin Sauce"
+    ],
+    "instructions": [
+      "Marinate chicken with soy sauce and cornstarch for 15 minutes.",
+      "Heat oil in a wok and stir-fry garlic, ginger, and chilies.",
+      "Add chicken and cook until golden brown.",
+      "Mix in hoisin sauce, vinegar, and peanuts.",
+      "Stir well and serve hot with rice."
+    ],
+    "liked": false
+  },
+  {
+    "id": 47,
+    "recipe_name": "Sweet and Sour Pork",
+    "image": " https://i.ytimg.com/vi/YOjRr6zeMG0/maxresdefault.jpg ",
+    "cuisine_type": "Chinese",
+    "rating": 4.7,
+    "time": "40 mins",
+    "type": "Non-Veg",
+    "description": "A classic dish with crispy pork pieces coated in a sweet and tangy sauce.",
+    "ingredients": [
+      "300g Pork (cubed)",
+      "1/2 cup Cornstarch",
+      "1 Egg",
+      "1/2 cup Pineapple Chunks",
+      "1/2 cup Bell Peppers (chopped)",
+      "2 tbsp Vinegar",
+      "2 tbsp Ketchup",
+      "2 tbsp Sugar",
+      "1 tbsp Soy Sauce",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Coat pork with egg and cornstarch, then deep fry until crispy.",
+      "Sauté bell peppers and pineapple in a pan.",
+      "Mix vinegar, ketchup, sugar, and soy sauce in a bowl.",
+      "Add sauce to the pan and cook until thickened.",
+      "Toss in fried pork and serve with rice."
+    ],
+    "liked": false
+  },
+  {
+    "id": 48,
+    "recipe_name": "Mapo Tofu",
+    "image": " https://static01.nyt.com/images/2019/02/24/dining/dt-vegetarian-mapo-tofu/dt-vegetarian-mapo-tofu-square640.jpg ",
+    "cuisine_type": "Chinese",
+    "rating": 4.9,
+    "time": "25 mins",
+    "type": "Veg",
+    "description": "A Sichuan dish with soft tofu in a spicy and savory sauce.",
+    "ingredients": [
+      "200g Tofu (cubed)",
+      "100g Minced Pork (optional)",
+      "2 tbsp Chili Bean Paste",
+      "1 tbsp Soy Sauce",
+      "1 tsp Sichuan Peppercorns",
+      "1 Garlic Clove (minced)",
+      "1 tsp Ginger (grated)",
+      "1/2 cup Chicken Broth",
+      "1 tsp Cornstarch",
+      "Spring Onions for garnish"
+    ],
+    "instructions": [
+      "Heat oil in a wok and sauté garlic and ginger.",
+      "Add minced pork and cook until browned.",
+      "Stir in chili bean paste, soy sauce, and broth.",
+      "Add tofu cubes and simmer for 5 minutes.",
+      "Thicken with cornstarch and garnish with spring onions."
+    ],
+    "liked": false
+  },
+  {
+    "id": 49,
+    "recipe_name": "Peking Duck",
+    "image": " https://img.freepik.com/premium-photo/peking-duck-beijing-roast-duck-is-chinese-food-have-roasted-duck-skin-thin_974629-174140.jpg ",
+    "cuisine_type": "Chinese",
+    "rating": 4.9,
+    "time": "3 hrs",
+    "type": "Non-Veg",
+    "description": "A famous Chinese dish with crispy duck skin served with pancakes and hoisin sauce.",
+    "ingredients": [
+      "1 Whole Duck",
+      "2 tbsp Soy Sauce",
+      "1 tbsp Honey",
+      "1 tsp Five-Spice Powder",
+      "2 tbsp Hoisin Sauce",
+      "2 Spring Onions (chopped)",
+      "1 Cucumber (sliced)",
+      "Pancakes for serving"
+    ],
+    "instructions": [
+      "Rub duck with soy sauce, honey, and five-spice powder.",
+      "Let it dry in the fridge for 12 hours.",
+      "Roast at 180°C (350°F) for 2 hours until crispy.",
+      "Slice and serve with hoisin sauce, cucumbers, and pancakes."
+    ],
+    "liked": false
+  },
+  {
+    "id": 50,
+    "recipe_name": "Xiaolongbao (Soup Dumplings)",
+    "image": " https://t3.ftcdn.net/jpg/07/00/10/22/360_F_700102214_77apX70LzKZBaiykXchit5YXnFDt06SL.jpg",
+    "cuisine_type": "Chinese",
+    "rating": 4.8,
+    "time": "2 hrs",
+    "type": "Non-Veg",
+    "description": "Juicy soup dumplings filled with pork and gelatin-rich broth.",
+    "ingredients": [
+      "300g Ground Pork",
+      "1/2 cup Chicken Broth (gelatinized)",
+      "1 tbsp Soy Sauce",
+      "1 tsp Ginger (minced)",
+      "2 cups Dumpling Dough",
+      "1 tbsp Rice Vinegar",
+      "Spring Onions for garnish"
+    ],
+    "instructions": [
+      "Mix pork, soy sauce, and gelatinized broth.",
+      "Roll out dumpling dough and fill with mixture.",
+      "Steam for 10 minutes until cooked.",
+      "Serve with vinegar and spring onions."
+    ],
+    "liked": false
+  },
+  {
+    "id": 51,
+    "recipe_name": "Chow Mein",
+    "image": " https://img.freepik.com/premium-photo/vegetarian-chow-mein-vegetarian-hakka-noodles-schezwan-noodles-black-bowl-against-dark-background-udon-noodles-veggies-chilli-sauce-spicy-indo-chinese-meal-space-bar_872147-12037.jpg?w=360 ",
+    "cuisine_type": "Chinese",
+    "rating": 4.7,
+    "time": "30 mins",
+    "type": "Veg",
+    "description": "A stir-fried noodle dish with vegetables and a savory soy sauce.",
+    "ingredients": [
+      "200g Egg Noodles",
+      "1 tbsp Soy Sauce",
+      "1 tbsp Oyster Sauce",
+      "1 tsp Sesame Oil",
+      "1/2 cup Cabbage (shredded)",
+      "1/2 cup Carrots (julienned)",
+      "2 Garlic Cloves (minced)",
+      "1 tbsp Vegetable Oil"
+    ],
+    "instructions": [
+      "Boil noodles until soft, then drain.",
+      "Heat oil in a wok and sauté garlic.",
+      "Add vegetables and stir-fry for 2 minutes.",
+      "Mix in noodles, soy sauce, and oyster sauce.",
+      "Toss well and serve hot."
+    ],
+    "liked": false
+  },
+  {
+    "id": 52,
+    "recipe_name": "Hot and Sour Soup",
+    "image": " https://media.istockphoto.com/id/1333237321/photo/hot-and-sour-soup.jpg?s=612x612&w=0&k=20&c=SkTPOGhv7ZUCFLeBPFGaOqysFLZ2GMunZtcdmNIfz_Y= ",
+    "cuisine_type": "Chinese",
+    "rating": 4.8,
+    "time": "25 mins",
+    "type": "Veg",
+    "description": "A flavorful soup with mushrooms, tofu, and a balance of spicy and sour flavors.",
+    "ingredients": [
+      "4 cups Vegetable Broth",
+      "1/2 cup Mushrooms (sliced)",
+      "100g Tofu (cubed)",
+      "1 tbsp Soy Sauce",
+      "1 tbsp Vinegar",
+      "1 tsp White Pepper",
+      "1 tsp Cornstarch",
+      "1 Egg (beaten)"
+    ],
+    "instructions": [
+      "Boil vegetable broth and add mushrooms and tofu.",
+      "Mix soy sauce, vinegar, and white pepper.",
+      "Dissolve cornstarch in water and stir into soup.",
+      "Slowly pour in beaten egg while stirring.",
+      "Serve hot with chopped green onions."
+    ],
+    "liked": false
+  },
+  {
+    "id": 53,
+    "recipe_name": "Spring Rolls",
+    "image": " https://img.freepik.com/premium-photo/delicious-looking-spring-rolls-plate-black-background_826454-687.jpg ",
+    "cuisine_type": "Chinese",
+    "rating": 4.6,
+    "time": "40 mins",
+    "type": "Veg",
+    "description": "Crispy fried rolls filled with vegetables and served with a sweet dipping sauce.",
+    "ingredients": [
+      "10 Spring Roll Wrappers",
+      "1/2 cup Cabbage (shredded)",
+      "1/2 cup Carrots (julienned)",
+      "1/2 cup Bean Sprouts",
+      "1 tbsp Soy Sauce",
+      "1 tsp Ginger (grated)",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Stir-fry vegetables with soy sauce and ginger.",
+      "Place filling inside wrappers and roll tightly.",
+      "Deep-fry until golden brown.",
+      "Serve hot with dipping sauce."
+    ],
+    "liked": false
+  },
+  {
+    "id": 54,
+    "recipe_name": "Egg Fried Rice",
+    "image": " https://png.pngtree.com/background/20230422/original/pngtree-bowl-of-fried-rice-on-a-black-background-picture-image_2452927.jpg ",
+    "cuisine_type": "Chinese",
+    "rating": 4.8,
+    "time": "20 mins",
+    "type": "Non-Veg",
+    "description": "A quick and flavorful rice dish stir-fried with eggs and vegetables.",
+    "ingredients": [
+      "2 cups Cooked Rice",
+      "2 Eggs",
+      "1 tbsp Soy Sauce",
+      "1/2 cup Green Peas",
+      "1/2 cup Carrots (diced)",
+      "1 Garlic Clove (minced)",
+      "1 tbsp Vegetable Oil"
+    ],
+    "instructions": [
+      "Heat oil in a pan and scramble eggs.",
+      "Add garlic and vegetables, stir-fry for 2 minutes.",
+      "Mix in rice and soy sauce.",
+      "Toss well and serve hot."
+    ],
+    "liked": false
+  },
+  {
+    "id": 55,
+    "recipe_name": "General Tso’s Chicken",
+    "image": " https://images.squarespace-cdn.com/content/v1/60174adfdff4fa32d6ac7988/1613155864020-MYUJFIMQ9Q8EQZI3NEZI/26.General%2BChicken%2BDouble%2BFried.still0.jpg?format=2500w ",
+    "cuisine_type": "Chinese",
+    "rating": 4.7,
+    "time": "45 mins",
+    "type": "Non-Veg",
+    "description": "Crispy fried chicken tossed in a sweet and spicy sauce.",
+    "ingredients": [
+      "300g Chicken (cubed)",
+      "1/2 cup Cornstarch",
+      "1 Egg",
+      "2 tbsp Soy Sauce",
+      "2 tbsp Hoisin Sauce",
+      "2 tbsp Vinegar",
+      "2 tbsp Sugar",
+      "2 Garlic Cloves (minced)",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Coat chicken with egg and cornstarch, then deep-fry until crispy.",
+      "Sauté garlic and mix with soy sauce, hoisin sauce, vinegar, and sugar.",
+      "Add fried chicken to the sauce and toss well.",
+      "Serve hot with rice."
+    ],
+    "liked": false
+  },
+  {
+    "id": 56,
+    "recipe_name": "Dragon Well Tea Shrimp",
+    "image": " https://static1.squarespace.com/static/56801b350e4c11744888ec37/t/5f31314b7a71f50a84bb09bb/1597059414030/Tea+Shrimp.jpg?format=1500w ",
+    "cuisine_type": "Chinese",
+    "rating": 4.8,
+    "time": "25 mins",
+    "type": "Non-Veg",
+    "description": "A delicate Hangzhou specialty featuring shrimp infused with the floral aroma of Dragon Well tea.",
+    "ingredients": [
+      "200g Shrimp (peeled and deveined)",
+      "1 tbsp Dragon Well Green Tea Leaves",
+      "1/2 cup Hot Water",
+      "1 tbsp Soy Sauce",
+      "1/2 tsp Sugar",
+      "1 Garlic Clove (minced)",
+      "1 tbsp Oil"
+    ],
+    "instructions": [
+      "Steep tea leaves in hot water for 5 minutes, then strain.",
+      "Sauté garlic in oil, then add shrimp and stir-fry until pink.",
+      "Pour in the tea, soy sauce, and sugar, and simmer for 2 minutes.",
+      "Serve warm with rice or as a light appetizer."
+    ],
+    "liked": false
+  },
+  {
+    "id": 57,
+    "recipe_name": "Scallion Pancakes",
+    "image": " https://media.istockphoto.com/id/1329946931/photo/homemade-chinese-scallion-pancake.jpg?s=612x612&w=0&k=20&c=OGLE_wPjgV0DNI1D35rmtk3RBvszcedTeeLCpGNt2gs= ",
+    "cuisine_type": "Chinese",
+    "rating": 4.6,
+    "time": "35 mins",
+    "type": "Veg",
+    "description": "Crispy, flaky pancakes filled with scallions and served with a dipping sauce.",
+    "ingredients": [
+      "2 cups All-Purpose Flour",
+      "3/4 cup Hot Water",
+      "1/2 cup Scallions (chopped)",
+      "1 tsp Salt",
+      "2 tbsp Sesame Oil",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix flour and hot water to form a dough; let rest for 30 minutes.",
+      "Roll out dough, brush with sesame oil, and sprinkle scallions.",
+      "Roll into a log, coil into a spiral, then roll flat.",
+      "Pan-fry until golden brown on both sides.",
+      "Serve with soy sauce dip."
+    ],
+    "liked": false
+  },
+  {
+    "id": 58,
+    "recipe_name": "Kung Pao Shrimp",
+    "image": " https://omnivorescookbook.com/wp-content/uploads/2023/10/230818_Kung-Pao-Shrimp_550-500x500.jpg ",
+    "cuisine_type": "Chinese",
+    "rating": 4.9,
+    "time": "30 mins",
+    "type": "Non-Veg",
+    "description": "A spicy and tangy shrimp stir-fry with peanuts and dried chilies.",
+    "ingredients": [
+      "200g Shrimp (peeled and deveined)",
+      "2 tbsp Soy Sauce",
+      "1 tbsp Hoisin Sauce",
+      "1 tbsp Vinegar",
+      "2 Garlic Cloves (minced)",
+      "1/2 cup Peanuts",
+      "5 Dried Red Chilies",
+      "1 tbsp Cornstarch"
+    ],
+    "instructions": [
+      "Marinate shrimp with soy sauce and cornstarch for 15 minutes.",
+      "Sauté garlic, chilies, and peanuts in oil.",
+      "Add shrimp, hoisin sauce, and vinegar, then stir-fry until cooked.",
+      "Serve hot with steamed rice."
+    ],
+    "liked": false
+  },
+  {
+    "id": 59,
+    "recipe_name": "Char Siu (Chinese BBQ Pork)",
+    "image": " https://www.kingsford.com/wp-content/uploads/2024/05/kfd-fy24-recipes-char-siu-ribs-v2_i02_1800x1544.jpg?quality=50",
+    "cuisine_type": "Chinese",
+    "rating": 4.8,
+    "time": "1 hr 30 mins",
+    "type": "Non-Veg",
+    "description": "Tender and flavorful Cantonese-style BBQ pork with a sweet and savory glaze.",
+    "ingredients": [
+      "500g Pork Tenderloin",
+      "2 tbsp Hoisin Sauce",
+      "1 tbsp Soy Sauce",
+      "1 tbsp Honey",
+      "1 tbsp Rice Wine",
+      "1 tsp Five-Spice Powder",
+      "1 Garlic Clove (minced)"
+    ],
+    "instructions": [
+      "Marinate pork with hoisin sauce, soy sauce, honey, rice wine, and five-spice powder for at least 2 hours.",
+      "Roast in an oven at 200°C for 40 minutes, basting with marinade.",
+      "Slice and serve hot with rice or noodles."
+    ],
+    "liked": false
+  },
+  {
+    "id": 60,
+    "recipe_name": "Sesame Balls (Jian Dui)",
+    "image": " https://thumbs.dreamstime.com/b/festive-food-display-golden-sesame-balls-jian-dui-shine-ceramic-platter-table-adorned-new-year-decorations-radiating-347206902.jpg",
+    "cuisine_type": "Chinese",
+    "rating": 4.7,
+    "time": "50 mins",
+    "type": "Veg",
+    "description": "Crispy sesame-coated balls filled with sweet red bean paste.",
+    "ingredients": [
+      "1 cup Glutinous Rice Flour",
+      "1/4 cup Sugar",
+      "1/2 cup Water",
+      "1/2 cup Red Bean Paste",
+      "1/2 cup Sesame Seeds",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix glutinous rice flour, sugar, and water to form dough.",
+      "Wrap dough around small portions of red bean paste to make balls.",
+      "Roll in sesame seeds and deep-fry until golden brown.",
+      "Serve warm as a dessert."
+    ],
+    "liked": false
+  },
+  {
+    "id": 61,
+    "recipe_name": "Hummus",
+    "image": " https://img.freepik.com/premium-photo/bowl-homemade-hummus-dark-background-with-copyspace_138656-910.jpg ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.9,
+    "time": "15 mins",
+    "type": "Veg",
+    "description": "A creamy and smooth chickpea dip blended with tahini, lemon, and garlic.",
+    "ingredients": [
+      "1 can Chickpeas (drained)",
+      "2 tbsp Tahini",
+      "1 tbsp Lemon Juice",
+      "1 Garlic Clove (minced)",
+      "2 tbsp Olive Oil",
+      "Salt to taste",
+      "Paprika for garnish"
+    ],
+    "instructions": [
+      "Blend chickpeas, tahini, lemon juice, garlic, and olive oil until smooth.",
+      "Adjust seasoning with salt and extra lemon juice if needed.",
+      "Drizzle with olive oil, sprinkle paprika, and serve with pita bread."
+    ],
+    "liked": false
+  },
+ {
+    "id": 62,
+    "recipe_name": "Baba Ganoush",
+    "image": " https://sixhungryfeet.com/wp-content/uploads/2020/11/Baba-Ganoush-3.jpg ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.8,
+    "time": "30 mins",
+    "type": "Veg",
+    "description": "A smoky eggplant dip blended with tahini, garlic, and lemon juice.",
+    "ingredients": [
+      "2 large Eggplants",
+      "2 tbsp Tahini",
+      "1 tbsp Lemon Juice",
+      "1 Garlic Clove (minced)",
+      "2 tbsp Olive Oil",
+      "Salt to taste",
+      "Parsley for garnish"
+    ],
+    "instructions": [
+      "Roast eggplants until soft, then peel and mash the flesh.",
+      "Blend with tahini, lemon juice, garlic, and olive oil.",
+      "Season with salt, garnish with parsley, and serve with pita."
+    ],
+    "liked": false
+  },
+  {
+    "id": 63,
+    "recipe_name": "Tabbouleh",
+    "image": " https://t3.ftcdn.net/jpg/02/78/06/00/360_F_278060052_gsEmyZQOTxgJkdm5TWV9Y0CivwBHDkIk.jpg",
+    "cuisine_type": "Lebanese",
+    "rating": 4.7,
+    "time": "20 mins",
+    "type": "Veg",
+    "description": "A refreshing parsley and bulgur salad with tomatoes, mint, and lemon dressing.",
+    "ingredients": [
+      "1 cup Bulgur Wheat",
+      "2 cups Parsley (chopped)",
+      "1 Tomato (diced)",
+      "1/2 cup Mint Leaves (chopped)",
+      "2 tbsp Lemon Juice",
+      "2 tbsp Olive Oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Soak bulgur in hot water for 10 minutes, then drain.",
+      "Mix with parsley, tomatoes, mint, lemon juice, and olive oil.",
+      "Season with salt and serve chilled."
+    ],
+    "liked": false
+  },
+ {
+    "id": 64,
+    "recipe_name": "Fattoush",
+    "image": " https://thumbs.dreamstime.com/b/colorful-fattoush-salad-features-fresh-lettuce-tomatoes-cucumbers-radishes-crispy-pita-chips-all-beautifully-arranged-341035795.jpg ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.8,
+    "time": "15 mins",
+    "type": "Veg",
+    "description": "A crunchy Lebanese salad with crispy pita, fresh veggies, and sumac dressing.",
+    "ingredients": [
+      "1 Pita Bread (toasted and broken into pieces)",
+      "1 Cucumber (chopped)",
+      "1 Tomato (chopped)",
+      "1/4 cup Mint Leaves",
+      "2 tbsp Lemon Juice",
+      "2 tbsp Olive Oil",
+      "1 tsp Sumac",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Mix cucumber, tomato, and mint in a bowl.",
+      "Add toasted pita pieces, lemon juice, olive oil, and sumac.",
+      "Toss well and serve fresh."
+    ],
+    "liked": false
+  },
+  {
+    "id": 65,
+    "recipe_name": "Kibbeh",
+    "image": " https://media.istockphoto.com/id/632218640/photo/meat-appetizer-kibbeh-closeup-on-a-plate.jpg?s=612x612&w=0&k=20&c=gktW0p6F7W1J-_T6Uk4DeU1v7cB5PlduqKrzcArUPf0= ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.9,
+    "time": "1 hr",
+    "type": "Non-Veg",
+    "description": "Lebanese fried croquettes made from ground meat, bulgur, and spices.",
+    "ingredients": [
+      "1 cup Bulgur Wheat",
+      "200g Ground Lamb",
+      "1 Onion (finely chopped)",
+      "1 tsp Allspice",
+      "Salt and Pepper to taste",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Soak bulgur and mix with ground lamb, onion, and spices.",
+      "Shape into small croquettes and deep-fry until golden brown.",
+      "Serve with yogurt dip."
+    ],
+    "liked": false
+  },
+  {
+    "id": 66,
+    "recipe_name": "Shawarma",
+    "image": " https://img.freepik.com/premium-photo/delicious-shawarma-black-plate-with-fast-food-photography-style-dark-background_1294581-1239.jpg ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.9,
+    "time": "2 hrs",
+    "type": "Non-Veg",
+    "description": "Marinated and grilled meat served in pita with garlic sauce.",
+    "ingredients": [
+      "500g Chicken (sliced)",
+      "2 tbsp Yogurt",
+      "1 tbsp Lemon Juice",
+      "1 tsp Garlic Powder",
+      "1 tsp Paprika",
+      "Salt to taste",
+      "Pita Bread for serving"
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt, lemon juice, garlic, paprika, and salt.",
+      "Grill until cooked and slightly charred.",
+      "Serve in pita bread with garlic sauce."
+    ],
+    "liked": false
+  },
+  {
+    "id": 67,
+    "recipe_name": "Manakish",
+    "image": " https://img.freepik.com/premium-photo/manakish-black-background-top-view-lebanese-cuisine-concept-lebanese-cuisine-manakish-top-view-black-background-food-photography_864588-43846.jpg ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.7,
+    "time": "30 mins",
+    "type": "Veg",
+    "description": "A Lebanese flatbread topped with za'atar and olive oil, often served for breakfast.",
+    "ingredients": [
+      "2 cups Flour",
+      "1/2 cup Water",
+      "1 tbsp Olive Oil",
+      "1 tbsp Yeast",
+      "1 tbsp Za'atar",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Mix flour, water, yeast, and salt to form a dough.",
+      "Roll out, top with za'atar mixed with olive oil, and bake at 200°C until golden brown.",
+      "Serve warm."
+    ],
+    "liked": false
+  },
+  {
+    "id": 68,
+    "recipe_name": "Kafta",
+    "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCG2ZZRQ-QmNFSwXW2n8dxBHTB6cezM5OsQ&s ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.9,
+    "time": "40 mins",
+    "type": "Non-Veg",
+    "description": "Lebanese grilled meat skewers made with minced beef or lamb and spices.",
+    "ingredients": [
+      "500g Minced Beef or Lamb",
+      "1 Onion (grated)",
+      "1 tsp Cumin",
+      "1 tsp Paprika",
+      "Salt and Pepper to taste",
+      "Skewers for grilling"
+    ],
+    "instructions": [
+      "Mix minced meat with onion, spices, and seasonings.",
+      "Shape into skewers and grill until fully cooked.",
+      "Serve with pita bread and garlic sauce."
+    ],
+    "liked": false
+  },
+  {
+    "id": 69,
+    "recipe_name": "Falafel",
+    "image": " https://i0.wp.com/fitfoodiediary.com/wp-content/uploads/2022/01/Falafel_Mw-6-forblog-1024x866.jpg?resize=768%2C650 ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.8,
+    "time": "45 mins",
+    "type": "Veg",
+    "description": "Crispy deep-fried chickpea patties, served with tahini sauce.",
+    "ingredients": [
+      "1 cup Chickpeas (soaked overnight)",
+      "1/2 Onion (chopped)",
+      "2 cloves Garlic",
+      "1 tsp Cumin",
+      "1 tbsp Parsley (chopped)",
+      "Salt to taste",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Blend chickpeas, onion, garlic, cumin, parsley, and salt until smooth.",
+      "Shape into small patties and deep-fry until golden brown.",
+      "Serve with tahini sauce."
+    ],
+    "liked": false
+  },
+ {
+    "id": 70,
+    "recipe_name": "Shish Taouk",
+    "image": " https://thumbs.dreamstime.com/b/dish-chicken-skewers-green-onions-black-plate-delicious-recipe-shish-taouk-middle-eastern-cuisine-staple-perfect-322045612.jpg ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.9,
+    "time": "1 hr",
+    "type": "Non-Veg",
+    "description": "Marinated chicken skewers grilled to perfection, served with garlic sauce.",
+    "ingredients": [
+      "500g Chicken Breast (cubed)",
+      "1/2 cup Yogurt",
+      "1 tbsp Lemon Juice",
+      "1 tsp Garlic Paste",
+      "1 tsp Paprika",
+      "Salt and Pepper to taste",
+      "Skewers for grilling"
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt, lemon juice, garlic, paprika, and salt for 2 hours.",
+      "Skewer and grill until fully cooked.",
+      "Serve with garlic sauce and pita bread."
+    ],
+    "liked": false
+  },
+  {
+    "id": 71,
+    "recipe_name": "Warak Enab",
+    "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOHbvOpWJ-uGiwPcom9FF0cVwmBnsHV2AvDg&s ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.7,
+    "time": "2 hrs",
+    "type": "Veg",
+    "description": "Stuffed grape leaves filled with rice, tomatoes, and herbs.",
+    "ingredients": [
+      "20 Grape Leaves",
+      "1 cup Rice",
+      "1 Tomato (chopped)",
+      "1/2 Onion (chopped)",
+      "1 tbsp Olive Oil",
+      "1 tbsp Lemon Juice",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Mix rice, tomato, onion, olive oil, lemon juice, and salt.",
+      "Stuff grape leaves with the mixture and roll tightly.",
+      "Simmer in water for 1 hour and serve."
+    ],
+    "liked": false
+  },
+  {
+    "id": 72,
+    "recipe_name": "Mujadara",
+    "image": " https://maureenabood.com/wp-content/uploads/2011/07/Mujadara-1024x684.jpg ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.8,
+    "time": "50 mins",
+    "type": "Veg",
+    "description": "A hearty dish of lentils and rice topped with caramelized onions.",
+    "ingredients": [
+      "1 cup Lentils",
+      "1/2 cup Rice",
+      "2 Onions (sliced)",
+      "2 tbsp Olive Oil",
+      "1 tsp Cumin",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Boil lentils until soft, then add rice and cook together.",
+      "Caramelize onions in olive oil and mix into the lentils and rice.",
+      "Season with cumin and salt before serving."
+    ],
+    "liked": false
+  },
+  {
+    "id": 73,
+    "recipe_name": "Sfeeha",
+    "image": " https://thumbs.dreamstime.com/b/set-photos-showing-traditional-lebanese-meat-pie-sfiha-wooden-cutting-board-black-background-homemade-lebanese-meat-156073133.jpg ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.8,
+    "time": "1 hr",
+    "type": "Non-Veg",
+    "description": "Lebanese meat pies filled with minced lamb and spices.",
+    "ingredients": [
+      "2 cups Flour",
+      "1/2 cup Water",
+      "1 tbsp Yeast",
+      "200g Minced Lamb",
+      "1 Onion (chopped)",
+      "1 tsp Allspice",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Prepare dough and let it rise.",
+      "Mix minced lamb with onion, allspice, and salt.",
+      "Fill dough with the mixture, bake at 200°C for 20 minutes.",
+      "Serve warm."
+    ],
+    "liked": false
+  },
+  {
+    "id": 74,
+    "recipe_name": "Laban Immo",
+    "image": " https://annacookingconcept.com/wp-content/uploads/2021/01/labam-emo-4-687x1030.jpg ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.7,
+    "time": "1 hr",
+    "type": "Non-Veg",
+    "description": "A traditional Lebanese lamb stew cooked with yogurt sauce.",
+    "ingredients": [
+      "500g Lamb (cubed)",
+      "2 cups Yogurt",
+      "1 Onion (chopped)",
+      "1 tsp Garlic Paste",
+      "1 tbsp Cornstarch",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Brown lamb in a pan with onion and garlic.",
+      "Mix yogurt with cornstarch and add to the pan.",
+      "Simmer for 30 minutes and serve with rice."
+    ],
+    "liked": false
+  },
+  {
+    "id": 75,
+    "recipe_name": "Znoud El Sit",
+    "image": " https://zaatarandzaytoun.com/wp-content/uploads/2020/05/znoud-el-sit-1.jpg ",
+    "cuisine_type": "Lebanese",
+    "rating": 4.9,
+    "time": "45 mins",
+    "type": "Dessert",
+    "description": "A crispy pastry filled with sweet cream and drizzled with sugar syrup.",
+    "ingredients": [
+      "10 Sheets Phyllo Dough",
+      "1 cup Ashta (Lebanese Clotted Cream)",
+      "1/2 cup Sugar Syrup",
+      "1 tbsp Rose Water",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Fill phyllo dough with ashta and roll into small parcels.",
+      "Deep-fry until golden brown.",
+      "Drizzle with sugar syrup and serve."
+    ],
+    "liked": false
   }
+
 ]
